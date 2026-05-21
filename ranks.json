@@ -5,16 +5,20 @@
       "rank": "owner"
     },
     {
-      "uuid": "b7987c9e-7339-41a2-817e-a69dd47e2037",
-      "rank": "vip"
+      "uuid": "66234bda-dd09-4f9c-9cb1-238ef77c9cfe",
+      "rank": "admin"
     },
     {
       "uuid": "b7987c9e-7339-41a2-817e-a69dd47e2037",
       "rank": "admin"
-    },
+    },    
     {
       "uuid": "cca3f804-7b8a-4fb2-beb7-2a9595d4bd66",
       "rank": "supporter"
+    },    
+    {
+      "uuid": "b7987c9e-7339-41a2-817e-a69dd47e2037",
+      "rank": "vip"
     }
   ]
 }
